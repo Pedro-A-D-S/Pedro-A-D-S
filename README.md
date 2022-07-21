@@ -21,7 +21,7 @@ I’m currently learning:
           
 💬 Ask me about:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" vspace="5" hspace="5"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" vspace="5" hspace="5"/> 
           
 😄 Pronouns: He/Him
 ⚡ Fun fact: I once thought a Git's commit was about getting super compromised with the platform. 
