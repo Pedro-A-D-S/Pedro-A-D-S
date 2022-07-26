@@ -4,6 +4,11 @@
 ## 🚀 About Me
 I'm a data science professional and machine learning student.
 
+## 🛠 Main Skills
+1. Python
+2. SQL
+3. Machine Learning
+4. Data Analysis
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Pedro-A-D-S)
