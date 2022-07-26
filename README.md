@@ -1,6 +1,15 @@
-# Hi there 👋
+# Hi, I'm Pedro! 👋
 
-I’m currently learning:
+
+## 🚀 About Me
+I'm a data science professional and machine learning student.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Pedro-A-D-S)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-a-d-s/)
+
+🧠 I'm currently learning...
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" height="60" vspace="5" hspace="5"/>
@@ -25,12 +34,6 @@ I’m currently learning:
           
 😄 Pronouns: He/Him
 ⚡ Fun fact: I once thought a Git's commit was about getting super compromised with the platform. 
-
-### Contact:
-
-<div>
-<a href="https://www.linkedin.com/in/pedro-a-d-s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 ### Stats:
 
