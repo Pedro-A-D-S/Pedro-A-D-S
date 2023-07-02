@@ -11,8 +11,8 @@ I'm a data science professional and machine learning student passionate about le
 - Data Analysis: I possess strong data analysis skills, including data cleaning, visualization, and exploratory analysis, to uncover meaningful patterns and trends.
 
 ## 🔗 Links
-- [Portfolio](https://github.com/Pedro-A-D-S) - Explore my portfolio to see some of the projects I have worked on and the solutions I have developed.
-- [LinkedIn](https://www.linkedin.com/in/pedro-a-d-s/) - Let's connect on LinkedIn to stay updated on my latest professional endeavors.
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Pedro-A-D-S) - Explore my portfolio to see some of the projects I have worked on and the solutions I have developed.
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-a-d-s/) - Let's connect on LinkedIn to stay updated on my latest professional endeavors.
 
 ## 🧠 Currently Learning
 - MLFlow: I am currently diving deeper into MLFlow to enhance my model versioning, tracking, and deployment capabilities, enabling reproducible and scalable machine learning workflows.
@@ -28,17 +28,18 @@ I'm enthusiastic about collaborating on data science and machine learning projec
 - Time Series: I'm eager to collaborate on time series analysis and forecasting projects, especially those involving complex patterns or seasonal trends.
 
 💬 Ask Me About
-- Python: Feel free to ask me about Python programming, including best practices, advanced concepts, and techniques for writing clean and efficient code.
-- Machine Learning: I'm happy to discuss various machine learning algorithms, model evaluation techniques, and practical tips for building effective models.
+- Python: Feel free to ask me about Python programming, including best practices, advanced concepts, and techniques for writing clean and efficient code. ![python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- Machine Learning: I'm happy to discuss various machine learning algorithms, model evaluation techniques, and practical tips for building effective models. ![machine learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 - Kedro: If you're interested in leveraging Kedro for scalable and reproducible data pipelines, I can provide insights based on my experience working with this powerful framework.
 - MLOps: Let's talk about best practices in MLOps, including model deployment, monitoring, and continuous integration and delivery (CI/CD) pipelines.
-- Testing: I can share my knowledge of testing methodologies and frameworks in Python, helping you write robust and reliable code through unit tests, integration tests, and more.
-- Object-Oriented Programming (OOP): Feel free to ask me about OOP principles and techniques in Python, including class design and how to use them in the data field.
+- Testing: I can share my knowledge of testing methodologies and frameworks in Python, helping you write robust and reliable code through unit tests, integration tests, and more. ![testing](https://img.shields.io/badge/-Testing-00C853?style=flat&logo=pytest&logoColor=white)
+- Object-Oriented Programming (OOP): Feel free to ask me about OOP principles and techniques in Python, including class design and how to use them in the data field. ![oop](https://img.shields.io/badge/-OOP-FFC107?style=flat)
 - Data Lifecycle Libraries: I have experience with various libraries used in the data lifecycle, such as pandas, NumPy, scikit-learn, and matplotlib. Feel free to ask me about these libraries and how to leverage them effectively in your data projects.
 
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I once thought a "commit" in Git meant getting super committed to the platform!
+
 
 ### Stats:
 
