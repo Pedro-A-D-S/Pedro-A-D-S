@@ -2,44 +2,46 @@
 
 
 ## 🚀 About Me
-I'm a data science professional and machine learning student.
+I'm a data science professional and machine learning student passionate about leveraging data-driven insights to solve complex problems.
 
 ## 🛠 Main Skills
-1. Python
-2. SQL
-3. Machine Learning
+
+1. Data Science
+1. MLOps
+2. Machine Learning
+3. SQL
 4. Data Analysis
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Pedro-A-D-S)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-a-d-s/)
 
-🧠 I'm currently learning...
+## 🧠 I'm currently learning...
 
+1. MLFlow
+2. TensorFlow
+3. Docker
+      
+## 👯 Collaboration
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" height="60" vspace="5" hspace="5"/>
-                 
-          
-          
-               
-          
-👯 I’m looking to collaborate on data science and machine learning projects
+I'm open to collaborating on data science and machine learning projects. If you have any exciting opportunities, feel free to reach out!
 
 🤔 I’m looking for help with:
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" vspace="5" hspace="5"/>
-          
-          
-          
+1. LLMs
+2. NLP
+3. Time Series
           
 💬 Ask me about:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" vspace="5" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" vspace="5" hspace="5"/> 
+1. Python
+2. Machine Learning
+3. Kedro
+4. MLOps
           
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I once thought a Git's commit was about getting super compromised with the platform. 
+⚡ Fun fact: I once thought a "commit" in Git meant getting super committed to the platform!
 
 ### Stats:
 
