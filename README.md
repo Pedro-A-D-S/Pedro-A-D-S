@@ -15,7 +15,6 @@ I'm a data science professional with skills in MLOps and passionate about levera
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-a-d-s/) - Let's connect on LinkedIn to stay updated on my latest professional endeavors.
 
 ## 🧠 Currently Learning
-- ![mlflow](https://img.shields.io/badge/-MLFlow-FFD700?style=flat) I am currently diving deeper into MLFlow to enhance my model versioning, tracking, and deployment capabilities, enabling reproducible and scalable machine learning workflows. 
 - ![tensorflow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) I am expanding my knowledge of TensorFlow to leverage its powerful deep learning capabilities and develop advanced neural network models for complex tasks. 
 - ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) I am learning Docker to containerize my applications and create reproducible environments, simplifying the deployment process and ensuring consistency across different platforms. 
 
@@ -28,6 +27,7 @@ I'm enthusiastic about collaborating on data science and machine learning projec
 - ![time series](https://img.shields.io/badge/-Time%20Series-FF5722?style=flat) I'm eager to collaborate on time series analysis and forecasting projects, especially those involving complex patterns or seasonal trends. 
 
 💬 Ask Me About
+- ![mlflow](https://img.shields.io/badge/-MLFlow-FFD700?style=flat) Feel free to ask me about MLFlow to enhance model versioning, tracking, and deployment capabilities, enabling reproducible and scalable machine learning workflows. 
 - ![python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Feel free to ask me about Python programming, including best practices, advanced concepts, and techniques for writing clean and efficient code. 
 - ![machine learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) I'm happy to discuss various machine learning algorithms, model evaluation techniques, and practical tips for building effective models. 
 - ![kedro](https://img.shields.io/badge/-Kedro-607D8B?style=flat) If you're interested in leveraging Kedro for scalable and reproducible data pipelines, I can provide insights based on my experience working with this powerful framework. 
