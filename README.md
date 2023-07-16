@@ -39,12 +39,3 @@ I'm enthusiastic about collaborating on data science and machine learning projec
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I once thought a "commit" in Git meant getting super committed to the platform!
-
-
-### Stats:
-
-<div>
-<a href="https://github.com/Pedro-A-D-S">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-A-D-S&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedro-A-D-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
