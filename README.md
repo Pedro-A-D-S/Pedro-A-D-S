@@ -1,7 +1,7 @@
 # Hi, I'm Pedro! 👋
 
 ## 🚀 About Me
-I'm a data science professional and machine learning student passionate about leveraging data-driven insights to solve complex problems. With a strong background in [mention relevant experience], I have successfully [mention notable achievements or projects].
+I'm a data science professional with skills in MLOps and passionate about leveraging data-driven insights to solve complex problems. With a strong background in mathematics, machine learning and MLOps, I have successfully created ML models on Itaú Unibanco.
 
 ## 🛠 Main Skills
 - ![data science](https://img.shields.io/badge/-Data%20Science-00BFFF?style=flat) I have expertise in analyzing large datasets, applying statistical techniques, and building predictive models to extract valuable insights and drive decision-making. 
