@@ -31,3 +31,5 @@ I'm enthusiastic about collaborating on data science and machine learning open s
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I once thought a "commit" in Git meant getting super committed to the platform!
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
