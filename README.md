@@ -32,4 +32,4 @@ I'm enthusiastic about collaborating on data science and machine learning open s
 
 ⚡ Fun fact: I once thought a "commit" in Git meant getting super committed to the platform!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pedro-A-D-S&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
