@@ -44,5 +44,5 @@ Software & Security   :: Python (Clean Arch / DDD / Async), REST APIs (FastAPI),
 
 ### Open Source & Community
 
-- **Gaming Community Tooling**: In my spare time, I actively contribute to the open-source gaming and systems ecosystem—building low-latency HUD overlays, telemetry pipelines, hardware sensor integrations (NVML, Steam API), and real-time controller haptic runtimes ([SenseForge](https://github.com/Pedro-A-D-S)).
+- **Gaming Community Tooling**: In my spare time, I actively contribute to the open-source gaming and systems ecosystem—building low-latency HUD overlays, telemetry pipelines, hardware sensor integrations (NVML, Steam API), and real-time controller haptic runtimes ([SenseForge-Mods](https://github.com/Pedro-A-D-S/SenseForge-Mods)).
 - **AI Agent Research**: Author of the [agent-memory-playbook](https://github.com/Pedro-A-D-S/agent-memory-playbook), packaging cognitive architectures and deterministic token-savings audits for modern agent runtimes.
